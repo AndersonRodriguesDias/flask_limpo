@@ -1,0 +1,27 @@
+# Folder view configuration files
+.DS_Store
+Desktop.ini
+# Thumbnail cache files
+._*
+Thumbs.db
+# Files that might appear on external disks
+.Spotlight-V100
+.Trashes
+# Compiled Python files
+*.pyc
+__pycache__
+# Application specific files
+env
+venv
+# weguenv
+# Folders
+.idea
+.vscode
+# migrations/
+Anotacao.txt
+# requirements.txt
+# static/p\lano
+# static/produto
+# static/quizzes
+# static/users-cadastro
+# serve.py
